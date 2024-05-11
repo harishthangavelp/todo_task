@@ -1,0 +1,24 @@
+.todoo{
+  color:seagreen;
+  text-align: center;
+  font-size: 18px;
+}
+#root{
+  background-color: crimson;
+}
+.mb-3{
+  border: 2px;
+  border-color: rgb(82, 241, 151);
+  border-style:solid;
+}
+.adTodo{
+  color:white;
+  background-color: seagreen;
+  border-radius: 10px;
+}
+
+.filt{
+  font-family: 'sans-serif';
+  font-weight: bold;
+  font-size: 20px;
+}
